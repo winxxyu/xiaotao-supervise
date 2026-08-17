@@ -1,0 +1,26 @@
+{
+  "name": "小桃监督 · 每日目标",
+  "short_name": "小桃监督",
+  "description": "每日目标打卡，可爱桃子的实时监督提醒，支持课表与 PDF 导入。",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF6F0",
+  "theme_color": "#FF8A5B",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
